@@ -31,7 +31,7 @@ namespace WebApiDemo.Controllers
         {
         }
 
-        public void PutTesting(int id, [FromBody]string value)
+        public void PutTestingMudubir(int id, [FromBody]string value)
         {
         }
 
