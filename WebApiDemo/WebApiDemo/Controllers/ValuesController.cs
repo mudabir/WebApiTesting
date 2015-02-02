@@ -25,7 +25,7 @@ namespace WebApiDemo.Controllers
         public void Post([FromBody]string value)
         {
         }
-        public void PostTesting([FromBody]string value)
+        public void PostTestingArslan([FromBody]string value)
         {
         }
 
